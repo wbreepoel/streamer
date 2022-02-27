@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "Test stream",
+      "description": "This is a test stream",
+      "id": 1
+    },
+    {
+      "title": "Test Stream 1",
+      "description": "This is test stream 1",
+      "id": 2
+    },
+    {
+      "title": "Test Stream 2",
+      "description": "This is test stream 2",
+      "id": 3
+    },
+    {
+      "title": "Stream with currentUserId",
+      "description": "This is a stream with currentUserId",
+      "userId": "115516450610489079286",
+      "id": 4
+    },
+    {
+      "title": "Test with push",
+      "description": "Testing with push",
+      "userId": "115516450610489079286",
+      "id": 5
+    }
+  ]
+}
