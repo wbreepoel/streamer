@@ -16,15 +16,8 @@
       "id": 3
     },
     {
-      "title": "Stream with currentUserId",
-      "description": "This is a stream with currentUserId",
-      "userId": "115516450610489079286",
-      "id": 4
-    },
-    {
       "title": "Test with push",
-      "description": "Testing with push",
-      "userId": "115516450610489079286",
+      "description": "Testing with push edited",
       "id": 5
     }
   ]
